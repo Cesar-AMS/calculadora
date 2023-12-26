@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #1d4106; /* Cor de fundo azul */
+    color: #ffffff; /* Cor do texto branco */
+}
+
+table {
+    border-collapse: collapse;
+    width: 300px;
+    margin-top: 20px;
+    background: #2c3e50; /* Cor de fundo cinza escuro */
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+    background: #34495e; /* Cor de fundo cinza médio */
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    text-align: right;
+    background: #2c3e50; /* Cor de fundo cinza escuro */
+    border: none;
+    color: #ffffff; /* Cor do texto branco */
+}
+
+button {
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    background: #0e8adc; /* Cor de fundo azul */
+    border: none;
+    color: #ffffff; /* Cor do texto branco */
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: #2980b9; /* Cor de fundo azul mais escura no hover */
+}
