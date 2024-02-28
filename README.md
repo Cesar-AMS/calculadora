@@ -27,3 +27,7 @@ Esta é uma calculadora web simples desenvolvida como parte de um projeto pessoa
 ## Notas Adicionais
 
 Este projeto foi desenvolvido como parte do meu portfólio pessoal. Se você tiver alguma dúvida ou feedback, não hesite em entrar em contato!
+
+## Demonstração
+
+Você pode testar a calculadora online [aqui][(https://seu-usuario.github.io/seu-repositorio](https://cesar-ams.github.io/calculadora)).
