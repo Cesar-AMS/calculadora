@@ -1,2 +1,6 @@
 # Ignorar o diretório venv do ambiente virtual Python
 venv/
+
+env/
+
+.env/
