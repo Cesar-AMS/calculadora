@@ -1,2 +1,2 @@
 # Ignorar o diretório venv do ambiente virtual Python
-projetos/calculadora/env/
+/projetos/calculadora/env/
