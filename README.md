@@ -30,4 +30,4 @@ Este projeto foi desenvolvido como parte do meu portfólio pessoal. Se você tiv
 
 ## Demonstração
 
-Você pode testar a calculadora online [aqui][(https://seu-usuario.github.io/seu-repositorio](https://cesar-ams.github.io/calculadora)).
+Você pode testar a calculadora online [aqui](https://cesar-ams.github.io/calculadora)).
